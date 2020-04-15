@@ -35,7 +35,7 @@ def message(ws,message):
 
    if price > 9000:
        vender()
-   elif price < 800:
+   elif price < 8000:
        comprar()
    else:
        print('aguardar')
